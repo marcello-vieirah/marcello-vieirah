@@ -11,8 +11,6 @@
 
 <br>
 
-![Visitantes](https://api.visitorbadge.io/api/visitors?path=marcello-vieirah&label=Visitantes&countColor=%23263759)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer"/>
 
 </div>
