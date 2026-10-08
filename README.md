@@ -3,12 +3,12 @@
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=white&center=true&vCenter=true&width=435&lines=Build.+Break.+Fix.+Evolve." alt="Typing SVG" />
     </a>
-    <p align="center">Um estudante de tecnologia que busca evoluir a cada dia.</p>
-
 </div>
 
----
 <div align='center'>
+
+<br>
+<br>
 
 | Cursando | Instituição | Status |
 | :--- | :---: | :---: |
